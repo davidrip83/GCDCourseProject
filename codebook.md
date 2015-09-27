@@ -29,6 +29,10 @@ Dimensions:
 - Y: y-axis
 - Z: z-axis
 
+Units of measurement:
+- 'Acc' variables: "the acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g'."
+- 'Gyro' variables: "the angular velocity vector measured by the gyroscope for each window sample. The units are radians/second." 
+
 All measurement variables:
  - "tBodyAcc-mean()-Y"                    
  - "tBodyAcc-mean()-Z"                   
