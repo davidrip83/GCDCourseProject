@@ -11,6 +11,7 @@ This data describes the **average values** of different measurements from the em
 
 ###Measurement variables
 Overall naming convention of the measurement variables is as follows:
+
 [Frequency/Time domain variable][type of measurement]-[Descriptive]-[Dimension]
 
 Frequency vs Time domain variable:
@@ -113,4 +114,4 @@ All measurement variables:
  - "fBodyAccMag-std()"                   
  - "fBodyBodyAccJerkMag-std()"            
  - "fBodyBodyGyroMag-std()"              
--  "fBodyBodyGyroJerkMag-std()"
+ -  "fBodyBodyGyroJerkMag-std()"
