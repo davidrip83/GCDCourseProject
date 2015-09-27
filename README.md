@@ -3,6 +3,7 @@
 This Course Project includes the following files:
 - README.md: overview of files, you are reading this now
 - run_analysis.R: script to generate tidy data fron source files
+- CodeBook.md: codebook describing all variables and summaries calculated, along with units, and any other relevant information
 - final_data_tidy.txt: output of Course Project
 
 ### Goals of Course Project
